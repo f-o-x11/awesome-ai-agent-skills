@@ -24,7 +24,8 @@
         "documentation-guidelines",
         "design-system-generator",
         "ui-ux-concept-implementation",
-        "vps-docker-traefik-deploy"
+        "vps-docker-traefik-deploy",
+        "deed-page"
       ]
     },
     {
